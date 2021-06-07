@@ -1,0 +1,1 @@
+#cmakedefine HAVE_DLL_EXPORT @HAVE_DLL_EXPORT@
